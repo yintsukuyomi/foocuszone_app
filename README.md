@@ -83,5 +83,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dos
 
 Herhangi bir soru veya öneriniz için bizimle iletişime geçmekten çekinmeyin:
 
-- E-posta: support@focuszoneapp.com
 - GitHub: [yintsukuyomi](https://github.com/yintsukuyomi)
